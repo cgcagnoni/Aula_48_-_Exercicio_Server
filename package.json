@@ -1,0 +1,18 @@
+{
+  "name": "mesa",
+  "version": "1.0.0",
+  "description": "resolucao do exercicio 48",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "servidor": "json-server --watch db.json"
+  },
+  "author": "grupo 3 assoc das patinhas",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
